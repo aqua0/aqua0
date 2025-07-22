@@ -44,7 +44,7 @@ End-to-end text classification system:
 
 ## 🌱 Personal Interests
 
-- Reading books (especially on tech & AI)
+- Reading books 
 - Exploring new technologies and trends
 - Networking with like-minded professionals
 - Gaming
